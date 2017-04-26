@@ -3,19 +3,22 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package quicksort;
+package bubbelsort;
 
 /**
  *
  * @author haris.talovic
  */
-public class Quicksort {
+public class Bubblesort {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
+        
+        
     }
     
 }
