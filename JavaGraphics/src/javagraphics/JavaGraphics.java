@@ -68,14 +68,9 @@ class DrawArea extends JPanel {
             r = 50;
             g.drawArc(xc - r, yc - r, r * 2, r * 2, 90, 180);
 
-            int width = 980;
-            int heigh = 630;
-            g.drawRect(10, 10, width, HEIGHT);
+        
 
-            g.drawLine(10, 18, 28 * i + 10, HEIGHT + 10);
-            g.drawLine(width + 10, 18 * i + 10, width - 28 * 1 + 10, heigh + 10);
-            g.drawLine(10, heigh - 18 * i + 10, width - 28 * i + 10, 10);
-            g.drawLine(width + 10, heigh - 18 * i + 10, width - 28 * i + 10, 10);
+           
 
         }
     }
